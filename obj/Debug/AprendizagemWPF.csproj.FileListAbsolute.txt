@@ -1,0 +1,42 @@
+D:\VS_C#\ProjetoMarques\AprendizagemWPF\bin\Debug\AprendizagemWPF.exe.config
+D:\VS_C#\ProjetoMarques\AprendizagemWPF\bin\Debug\AprendizagemWPF.exe
+D:\VS_C#\ProjetoMarques\AprendizagemWPF\bin\Debug\AprendizagemWPF.pdb
+D:\VS_C#\ProjetoMarques\AprendizagemWPF\obj\Debug\AprendizagemWPF.csprojAssemblyReference.cache
+D:\VS_C#\ProjetoMarques\AprendizagemWPF\obj\Debug\MainWindow.g.cs
+D:\VS_C#\ProjetoMarques\AprendizagemWPF\obj\Debug\View\CadastroView.g.cs
+D:\VS_C#\ProjetoMarques\AprendizagemWPF\obj\Debug\App.g.cs
+D:\VS_C#\ProjetoMarques\AprendizagemWPF\obj\Debug\AprendizagemWPF_MarkupCompile.cache
+D:\VS_C#\ProjetoMarques\AprendizagemWPF\obj\Debug\AprendizagemWPF_MarkupCompile.lref
+D:\VS_C#\ProjetoMarques\AprendizagemWPF\obj\Debug\MainWindow.baml
+D:\VS_C#\ProjetoMarques\AprendizagemWPF\obj\Debug\View\CadastroView.baml
+D:\VS_C#\ProjetoMarques\AprendizagemWPF\obj\Debug\AprendizagemWPF.g.resources
+D:\VS_C#\ProjetoMarques\AprendizagemWPF\obj\Debug\AprendizagemWPF.Properties.Resources.resources
+D:\VS_C#\ProjetoMarques\AprendizagemWPF\obj\Debug\AprendizagemWPF.csproj.GenerateResource.cache
+D:\VS_C#\ProjetoMarques\AprendizagemWPF\obj\Debug\AprendizagemWPF.csproj.CoreCompileInputs.cache
+D:\VS_C#\ProjetoMarques\AprendizagemWPF\obj\Debug\AprendizagemWPF.exe
+D:\VS_C#\ProjetoMarques\AprendizagemWPF\obj\Debug\AprendizagemWPF.pdb
+D:\VS_C#\ProjetoMarques\AprendizagemWPF\obj\Debug\App.baml
+D:\VS_C#\ProjetoMarques\AprendizagemWPF\obj\Debug\View\LoginView.g.cs
+D:\VS_C#\ProjetoMarques\AprendizagemWPF\obj\Debug\View\LoginView.baml
+D:\VS_C#\ProjetoMarques\AprendizagemWPF\obj\Debug\AprendizagemWPF_Content.g.cs
+C:\Users\marii\Desktop\Projetos\Projeto - 4 sem\AprendizagemWPF\bin\Debug\AprendizagemWPF.exe.config
+C:\Users\marii\Desktop\Projetos\Projeto - 4 sem\AprendizagemWPF\bin\Debug\AprendizagemWPF.exe
+C:\Users\marii\Desktop\Projetos\Projeto - 4 sem\AprendizagemWPF\bin\Debug\AprendizagemWPF.pdb
+C:\Users\marii\Desktop\Projetos\Projeto - 4 sem\AprendizagemWPF\obj\Debug\AprendizagemWPF.csprojAssemblyReference.cache
+C:\Users\marii\Desktop\Projetos\Projeto - 4 sem\AprendizagemWPF\obj\Debug\MainWindow.g.cs
+C:\Users\marii\Desktop\Projetos\Projeto - 4 sem\AprendizagemWPF\obj\Debug\View\CadastroView.g.cs
+C:\Users\marii\Desktop\Projetos\Projeto - 4 sem\AprendizagemWPF\obj\Debug\View\LoginView.g.cs
+C:\Users\marii\Desktop\Projetos\Projeto - 4 sem\AprendizagemWPF\obj\Debug\App.g.cs
+C:\Users\marii\Desktop\Projetos\Projeto - 4 sem\AprendizagemWPF\obj\Debug\AprendizagemWPF_Content.g.cs
+C:\Users\marii\Desktop\Projetos\Projeto - 4 sem\AprendizagemWPF\obj\Debug\AprendizagemWPF_MarkupCompile.cache
+C:\Users\marii\Desktop\Projetos\Projeto - 4 sem\AprendizagemWPF\obj\Debug\AprendizagemWPF_MarkupCompile.lref
+C:\Users\marii\Desktop\Projetos\Projeto - 4 sem\AprendizagemWPF\obj\Debug\App.baml
+C:\Users\marii\Desktop\Projetos\Projeto - 4 sem\AprendizagemWPF\obj\Debug\MainWindow.baml
+C:\Users\marii\Desktop\Projetos\Projeto - 4 sem\AprendizagemWPF\obj\Debug\View\CadastroView.baml
+C:\Users\marii\Desktop\Projetos\Projeto - 4 sem\AprendizagemWPF\obj\Debug\View\LoginView.baml
+C:\Users\marii\Desktop\Projetos\Projeto - 4 sem\AprendizagemWPF\obj\Debug\AprendizagemWPF.g.resources
+C:\Users\marii\Desktop\Projetos\Projeto - 4 sem\AprendizagemWPF\obj\Debug\AprendizagemWPF.Properties.Resources.resources
+C:\Users\marii\Desktop\Projetos\Projeto - 4 sem\AprendizagemWPF\obj\Debug\AprendizagemWPF.csproj.GenerateResource.cache
+C:\Users\marii\Desktop\Projetos\Projeto - 4 sem\AprendizagemWPF\obj\Debug\AprendizagemWPF.csproj.CoreCompileInputs.cache
+C:\Users\marii\Desktop\Projetos\Projeto - 4 sem\AprendizagemWPF\obj\Debug\AprendizagemWPF.exe
+C:\Users\marii\Desktop\Projetos\Projeto - 4 sem\AprendizagemWPF\obj\Debug\AprendizagemWPF.pdb
